@@ -1,0 +1,22 @@
+Breakdowncover,Windscreenrepair,Number Of Accidents Last Year,Total Mileage,Estimated Value,Parking Location:,Premium
+roadside,Yes,1,6000,1000,public place,100
+no cover,Yes,1,6000,1000,public place,90
+at home,Yes,1,6000,1000,public place,110
+european,Yes,1,6000,1000,public place,120
+no cover,No,1,6000,1000,public place,60
+roadside,No,1,6000,1000,public place,70
+at home,No,1,6000,1000,public place,80
+european,No,1,6000,1000,public place,90
+no cover,Yes,0,6000,1000,public place,78
+roadside,Yes,0,6000,1000,public place,85
+at home,Yes,0,6000,1000,public place,92
+european,Yes,0,6000,1000,public place,99
+no cover,Yes,0,6000,1000,public place,40
+roadside,Yes,1,4000,1000,public place,50
+no cover,No,1,4000,1000,public place,7
+roadside,No,0,4000,100,other,0
+european,No,0,4000,100,other,0
+at home,No,1,4000,100,other,0
+roadside,Yes,1,4000,100,other,0
+roadside,Yes,1,4000,100,other,56
+
