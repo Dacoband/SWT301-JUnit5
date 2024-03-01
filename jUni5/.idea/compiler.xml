@@ -6,9 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="caculate (2)" />
+        <module name="caculate (1)" />
         <module name="demo" />
         <module name="caculate" />
-        <module name="caculate (1)" />
       </profile>
     </annotationProcessing>
   </component>
